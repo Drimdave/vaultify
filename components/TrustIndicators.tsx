@@ -31,11 +31,11 @@ export default function TrustIndicators() {
               <SpotlightCard className="bg-white/70 backdrop-blur-xl border border-white/60 mb-10 ring-1 ring-accent-900/5 w-full sm:w-max">
                 <div className="p-6 sm:p-8 sm:pr-10 flex flex-col sm:flex-row items-center gap-6 sm:gap-10 h-full w-full">
                   <div className="flex -space-x-4 sm:-space-x-5">
-                    <div className="w-12 h-12 sm:w-16 sm:h-16 rounded-full border-[3px] border-white bg-gradient-to-tr from-primary-400 to-primary-600 shadow-md transform -rotate-6"></div>
-                    <div className="w-14 h-14 sm:w-20 sm:h-20 rounded-full border-[3px] border-white bg-gradient-to-tr from-secondary-400 to-secondary-500 shadow-md"></div>
-                    <div className="w-12 h-12 sm:w-16 sm:h-16 rounded-full border-[3px] border-white bg-gradient-to-tr from-tertiary-400 to-tertiary-600 shadow-md transform translate-y-2"></div>
-                    <div className="w-16 h-16 sm:w-24 sm:h-24 rounded-full border-[3px] border-white bg-gradient-to-tr from-primary-300 to-primary-400 shadow-lg z-10"></div>
-                    <div className="w-12 h-12 sm:w-16 sm:h-16 rounded-full border-[3px] border-white bg-gradient-to-tr from-accent-800 to-accent-900 shadow-md transform -translate-y-1"></div>
+                    <img src="https://i.pravatar.cc/150?u=avatar1" alt="User 1" className="w-12 h-12 sm:w-16 sm:h-16 rounded-full border-[3px] border-white shadow-md transform -rotate-6 object-cover bg-tertiary-100" />
+                    <img src="https://i.pravatar.cc/150?u=avatar2" alt="User 2" className="w-14 h-14 sm:w-20 sm:h-20 rounded-full border-[3px] border-white shadow-md relative z-10 object-cover bg-tertiary-100" />
+                    <img src="https://i.pravatar.cc/150?u=avatar3" alt="User 3" className="w-12 h-12 sm:w-16 sm:h-16 rounded-full border-[3px] border-white shadow-md transform translate-y-2 object-cover bg-tertiary-100" />
+                    <img src="https://i.pravatar.cc/150?u=avatar4" alt="User 4" className="w-16 h-16 sm:w-24 sm:h-24 rounded-full border-[3px] border-white shadow-lg z-20 object-cover bg-tertiary-100" />
+                    <img src="https://i.pravatar.cc/150?u=avatar5" alt="User 5" className="w-12 h-12 sm:w-16 sm:h-16 rounded-full border-[3px] border-white shadow-md transform -translate-y-1 object-cover bg-tertiary-100" />
                   </div>
                   <div className="text-center sm:text-left">
                     <h3 className="text-5xl sm:text-6xl font-medium tracking-tighter text-accent-900">2M<span className="text-4xl font-bold">+</span></h3>

@@ -3,7 +3,7 @@ import Reveal from './Reveal';
 
 export default function Hero() {
   return (
-    <main className="flex-1 flex flex-col items-center pt-32 sm:pt-44 pb-0 max-w-7xl mx-auto w-full px-4 sm:px-6">
+    <main className="flex-1 flex flex-col items-center pt-32 sm:pt-44 pb-0 max-w-7xl mx-auto w-full px-4 sm:px-6" id="home">
       <div className="flex flex-col items-center text-center max-w-[900px] w-full mx-auto space-y-6 sm:space-y-8 relative z-20">
         <Reveal delay={100} direction="up">
           {/* Main Headline styled like the image */}

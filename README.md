@@ -40,3 +40,7 @@ Vaultify is a premium mobile first fintech landing page built with Next.js and T
 ## Deployment
 
 This project is optimized for deployment on Vercel. Connect your GitHub repository to Vercel for automatic deployments on every push.
+
+## Credits
+
+Original UI UX design inspiration by Dsgnr MG | UIUX Designer. Follow him on Twitter at @ErhokhonG.

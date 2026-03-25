@@ -1,9 +1,16 @@
 # Vaultify
 
-![Vaultify Desktop Showcase](public/screenshot-desktop.png)
-![Vaultify Mobile Showcase](public/screenshot-mobile.png)
-
 Vaultify is a premium mobile first fintech landing page built with Next.js and Tailwind CSS. The platform provides a secure and fee free financial ecosystem designed for modern users.
+
+<p align="center">
+  <strong>Desktop Version</strong><br>
+  <img src="public/screenshot-desktop.png" alt="Vaultify Desktop Showcase" width="100%">
+</p>
+
+<p align="center">
+  <strong>Mobile Version</strong><br>
+  <img src="public/screenshot-mobile.png" alt="Vaultify Mobile Showcase" width="300">
+</p>
 
 ## Core Features
 

@@ -73,13 +73,13 @@ export default function Footer() {
       </div>
 
       {/* Massive Background Text overlaid at the very bottom */}
-      <Reveal delay={400} direction="up" className="w-full flex justify-center mt-8 sm:mt-12 pointer-events-none select-none relative z-0">
+      <div className="w-full flex justify-center mt-8 sm:mt-12 pointer-events-none select-none relative z-0">
         <span
           className="inline-block text-[22vw] sm:text-[18vw] font-black tracking-tighter leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#A5C0FF] to-white/10 pb-4"
         >
           Vaultify.
         </span>
-      </Reveal>
+      </div>
     </footer>
   );
 }

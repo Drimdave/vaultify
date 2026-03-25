@@ -41,7 +41,7 @@ const col2Items = [testimonials[2], testimonials[3], testimonials[0], testimonia
 
 export default function Testimonials() {
   return (
-    <section className="py-16 sm:py-24 lg:py-32 px-4 sm:px-6 relative z-10" id="testimonials">
+    <section className="py-16 sm:py-24 lg:py-32 px-4 sm:px-6 relative z-10" id="reviews">
       <div className="max-w-[85rem] mx-auto bg-white rounded-[2rem] sm:rounded-[3rem] p-6 sm:p-16 lg:p-20 shadow-[0_10px_40px_rgba(0,0,0,0.02)] border border-tertiary-100 flex flex-col lg:flex-row gap-10 sm:gap-16 lg:gap-24 items-center h-full overflow-hidden relative">
         
         {/* Left Side: Sticky Headers and Stats */}

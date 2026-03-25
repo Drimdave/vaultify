@@ -19,8 +19,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Vaultify UI Showcase",
-  description: "Design system components preview",
+  title: "Vaultify | Your Money. No Middlemen. No Delays.",
+  description: "Experience the future of finance with Vaultify. A secure, fee-free platform for the modern financial ecosystem. Military-grade security, instant transfers, and global accessibility.",
 };
 
 export default function RootLayout({
